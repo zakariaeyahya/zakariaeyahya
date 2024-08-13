@@ -16,7 +16,7 @@
 
   <br>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist+Intern+@Digital+Place+👨🏻‍💻)]
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist+Intern+@Digital+Place+👨🏻‍💻)
 
 
   ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
