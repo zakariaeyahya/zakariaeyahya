@@ -1,28 +1,24 @@
 <h1>
-  👋🏻 Hi,  I'm zakariae 
+  👋🏻 Hi, I'm Zakariae
 </h1>
 
 <div id="header" align="center">
-   <div id="header" align="center">
-    <img src="![mobilité nationale (4)](https://github.com/user-attachments/assets/f55ea8a0-99db-47bb-96b0-5012390ab5a3)" width="100%" />
-  </div>
-  <br>
-  <div id="badges">
-    <a href="[https://www.linkedin.com/in/hamza-elbelghiti](https://www.linkedin.com/in/zakariae-yahya/)/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-    </a>
- 
-  </div>
-
-  <br>
-
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist+Intern+@Digital+Place+👨🏻‍💻)
-
-
-  ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
-  [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
+  <img src="https://github.com/user-attachments/assets/f55ea8a0-99db-47bb-96b0-5012390ab5a3" width="100%" />
 </div>
 
+<br>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/zakariae-yahya/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist+Intern+@Digital+Place+👨🏻‍💻" alt="Typing SVG"/>
+</a>
 
 ---
 
