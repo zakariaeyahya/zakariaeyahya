@@ -85,7 +85,6 @@ As a first-year engineering student, I am passionate about Data Science, Big Dat
 
 ![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
-![PlanetScale](https://img.shields.io/badge/planetscale-000000?style=flat&logo=planetscale&logoColor=000000&labelColor=white)
 
 ##### 🤖 Data & ML : 
 
