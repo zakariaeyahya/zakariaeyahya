@@ -99,5 +99,5 @@ As a first-year engineering student, I am passionate about Data Science, Big Dat
 
 ##### 🌐 Web Dev : 
 
-![streamlit](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=streamlit&logoColor=ffffff&labelColor=E34F26)
+![streamlit](https://img.shields.io/badge/-streamlit-000000?style=flat&logo=streamlit&logoColor=ffffff&labelColor=E34F26)
 ![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
