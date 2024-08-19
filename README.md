@@ -94,25 +94,25 @@ As a first-year engineering student, I am passionate about Data Science, Big Dat
 ![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
 
 ##### 🌐 Web Dev : 
-
 ![streamlit](https://img.shields.io/badge/-streamlit-000000?style=flat&logo=streamlit&logoColor=ffffff&labelColor=E34F26)
 ![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
+
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats 
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/votre-nom-utilisateur/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&hide_border=true&show_icons=true" alt="Vos statistiques GitHub" /> </a>
+      <a href="https://github.com/zakariaeyahya/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&hide_border=true&show_icons=true" alt="Vos statistiques GitHub" /> </a>
     </td>
     <td>
-      <a href="https://github.com/votre-nom-utilisateur/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&hide_border=true&langs_count=8&layout=compact" alt="Langages les plus utilisés" /> </a>
+      <a href="https://github.com/zakariaeyahya/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaeyahya&hide_border=true&langs_count=8&layout=compact" alt="Langages les plus utilisés" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=votre-nom-utilisateur&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Vos statistiques de séquence GitHub" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=zakariaeyahya&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Vos statistiques de séquence GitHub" /> </a>
     </td>
   </tr>
 </table>
 
-[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=zakariaeyahya&theme=tokyo-night)](https://github.com/votre-nom-utilisateur/github-readme-activity-graph)
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=zakariaeyahya&theme=tokyo-night)](https://github.com/zakariaeyahya/github-readme-activity-graph)
