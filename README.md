@@ -75,28 +75,52 @@ As a first-year engineering student, I am passionate about Data Science, Big Dat
 
 #### :hammer_and_wrench: Languages and Tools :
 
-##### 💻 Programming : 
+# 👋🏻 Hi, I'm Zakariae
 
+## 🛠️ Skills
+
+##### 💻 Programming : 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r&logoColor=ffffff&labelColor=276DC3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
 
 ##### 💾 Databases : 
-
-![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
 
-##### 🤖 Data & ML : 
-
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
+##### 🤖 Data Science & ML : 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=white&labelColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas&logoColor=white&labelColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat&logo=numpy&logoColor=white&labelColor=013243)
 
-##### 🌐 Web Dev : 
-![streamlit](https://img.shields.io/badge/-streamlit-000000?style=flat&logo=streamlit&logoColor=ffffff&labelColor=E34F26)
-![Fastapi](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
+##### 📊 Data Visualization : 
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=Tableau&logoColor=white&labelColor=E97627)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=Python&logoColor=white&labelColor=3776AB)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat&logo=Python&logoColor=white&labelColor=3776AB)
+![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat&logo=Plotly&logoColor=white&labelColor=3F4F75)
 
+##### 🌐 Web Development : 
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=ffffff&labelColor=FF4B4B)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=ffffff&labelColor=009688)
+
+##### 🔧 Data Engineering :
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=flat&logo=apache-spark&logoColor=white&labelColor=E25A1C)
+![Hadoop](https://img.shields.io/badge/Hadoop-000000?style=flat&logo=apache-hadoop&logoColor=white&labelColor=66CCFF)
+
+##### 📈 Advanced Techniques :
+![NLP](https://img.shields.io/badge/NLP-000000?style=flat&logo=natural-language-processing&logoColor=white&labelColor=4479A1)
+![LLM](https://img.shields.io/badge/LLM-000000?style=flat&logo=openai&logoColor=white&labelColor=412991)
+
+##### 🛠️ Software Development :
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=181717)
+
+##### 📊 Project Management :
+![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile&logoColor=white&labelColor=0052CC)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat&logo=scrumalliance&logoColor=white&labelColor=009FDA)
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> Overall Stats 
 
 <table>
