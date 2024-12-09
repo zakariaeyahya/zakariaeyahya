@@ -17,7 +17,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Data+Scientist+Intern+@Digital+Place+👨🏻‍💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Ex+Data+Scientist+Intern+@Digital+Place+👨🏻‍💻" alt="Typing SVG"/>
 </a>
 
 ---
@@ -26,7 +26,7 @@
 
 Engineering Student - Data Science, Big Data, and Artificial Intelligence 🚀
 
-As a first-year engineering student, I am passionate about Data Science, Big Data, and Artificial Intelligence. My academic journey and personal projects reflect my commitment to exploring and applying cutting-edge concepts in these fields.
+As a second-year engineering student, I am passionate about Data Science, Big Data, and Artificial Intelligence. My academic journey and personal projects reflect my commitment to exploring and applying cutting-edge concepts in these fields.
 #### 🎓 Certifications :
 
 <div id="header">
