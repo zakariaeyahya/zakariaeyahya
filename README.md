@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/zakariae-yahya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://bsky.app/profile/YAHYA ZAKARIAE">
-    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky Badge"/>
-  </a>
   <a href="mailto:zakariae.yh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
