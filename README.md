@@ -17,9 +17,9 @@
 
 <br>
 
-<a>
+ 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=650&lines=Data+%26+AI+Engineer+Student+@ENSA+Tétouan+👨🏻‍💻;Specializing+in+Data+Science+%26+Artificial+Intelligence+🚀;Building+AI-Powered+Solutions+%26+Intelligent+Systems+🤖" alt="Typing SVG"/>
-</a>
+ 
 
 ---
 
