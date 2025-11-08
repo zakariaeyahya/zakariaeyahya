@@ -1,236 +1,233 @@
-# 👋🏻 Hi, I'm Zakariae YAHYA
+# 👋 Hey, I'm Zakariae YAHYA (o゜▽゜)o☆
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analyze%2C+Innovate%2C+Build+with+AI;Empower+through+Data+and+Intelligence;Learn%2C+Automate%2C+Optimize%2C+Repeat&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000)
 
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/f55ea8a0-99db-47bb-96b0-5012390ab5a3" width="100%" />
 </div>
 
-<br>
+---
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/zakariae-yahya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:zakariae.yh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+## 👨🏻‍💻 About Me
 
-<br>
+🎓 **Data & AI Engineering Student | ENSA Tétouan (5ᵉ année)**  
+🔍 **Focus:** Generative AI (LLMs, RAG), Machine Learning, and MLOps  
+📆 **Available for PFE Internship – February 2026 (6 months)**  
+📍 Based in Morocco | Mobility: National & Remote  
 
- 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=650&lines=Data+%26+AI+Engineer+Student+@ENSA+Tétouan+👨🏻‍💻;Specializing+in+Data+Science+%26+Artificial+Intelligence+🚀;Building+AI-Powered+Solutions+%26+Intelligent+Systems+🤖" alt="Typing SVG"/>
- 
+> Passionate about leveraging data and AI to drive intelligent decision-making and build scalable, data-driven applications.  
+> I specialize in designing pipelines, deploying models, and developing full-stack AI platforms bridging **data science** and **software engineering**.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Current Focus
 
-**Data & AI Engineering Student | Future Data Scientist** 🎓
-
-I'm a 5th-year engineering student at ENSA Tétouan, specializing in **Data Science and Artificial Intelligence**. Passionate about developing innovative AI solutions and optimizing big data exploitation, I'm actively seeking opportunities to apply and expand my skills in professional environments.
-
-My expertise spans from **machine learning models** to **full-stack AI applications**, with hands-on experience in building intelligent systems, data pipelines, and interactive platforms.
-
-### 🎯 Current Focus
-- 🔬 **AI Research & Development**: LLMs, RAG systems, and multimodal AI assistants
-- 📊 **Data Engineering**: Building ETL pipelines and data warehousing solutions
-- 🤖 **Intelligent Applications**: Creating AI-powered educational and business tools
-- 🌐 **Full-Stack Development**: Integrating AI models into web and mobile applications
+- 🧠 **Generative AI:** RAG systems, LLM fine-tuning, AI assistants  
+- ⚙️ **MLOps & Data Engineering:** MLflow, CI/CD, Observability, Kubernetes  
+- 🌐 **AI Applications:** Web & Mobile intelligent systems  
+- ☁️ **Cloud & Big Data:** Scalable pipelines with AWS, Spark, and Airflow  
 
 ---
 
 ## 🎓 Education
 
-**5th Year - Data Science & Artificial Intelligence**  
-*École Nationale des Sciences Appliquées, Tétouan* | 2021 - Present
-
-**Baccalauréat in Mathematical Sciences**  
-*Lycée Qualifiant Jaber Ibn Hayyan* | 2019 - 2020
+**École Nationale des Sciences Appliquées – Tétouan**  
+🎓 *Engineering in Data Science & Artificial Intelligence (2021 – Present)*  
 
 ---
 
 ## 💼 Professional Experience
 
-### 🚀 **Data Scientist Intern** | *Marketing Confort* 
-**February 2025 - July 2025**
-- Developed an **intelligent tutoring platform** personalizing learning for primary school students through voice and visual interactions
-- Implemented a complete AI solution enabling interactive educational content and real-time student progress tracking
-- **Tech Stack**: Django, LangChain, LlamaIndex, MLflow, TypeScript, React, React Native, Spring Boot, PostgreSQL, Qdrant, Docker, Kubernetes, AWS
+### 🧠 Data Scientist Intern — **Izemx** (Paris, France) | *02/2025 – Present*
+#### **Zyra – Autonomous Crypto Investment Platform**
+- Developed a **real-time Big Data pipeline** (Python, Redis, PostgreSQL) processing **5k+ transactions/minute**
+- Implemented an **event-driven architecture** with Redis Streams for reliable data ingestion  
+- Built **Grafana dashboards** for live monitoring and anomaly detection  
+- Created a **predictive investment engine**, reducing analysis latency by **40%**
 
-### 🤖 **Data Scientist Intern** | *Digital Place*
-**June 2024 - September 2024**
-- Built an **intelligent virtual assistant** capable of communicating in French and Moroccan dialect
-- Designed and deployed a high-performance mobile application for voice and text communication
-- **Tech Stack**: LLM, RAG, Langchain, Groq API, FastAPI, Transformers, PyTorch, TensorFlow
+#### **BrainBoost – Intelligent Educational Platform**
+- Designed a **full-stack web app** with 98% user satisfaction  
+- Integrated **RAG system** (LangChain + Qdrant) for adaptive tutoring  
+- Automated **500+ educational content** processes weekly  
+- **Tech Stack:** Python, Redis, PostgreSQL, Grafana, Django, React, Spring Boot, Qdrant, LangChain, LlamaIndex, MLflow, Docker, Kubernetes  
+
+---
+
+### 🤖 Data Scientist Intern — **Digital Place** (Tanger, Morocco) | *06/2024 – 09/2024*
+- Built a **multilingual assistant (French & Darija)** for customer interaction  
+- Deployed a **RAG-based chatbot**, reducing query response time by **40%**  
+- **Stack:** FastAPI, PyTorch, TensorFlow, LangChain, Groq API, LLM, Transformers, Agile/Scrum  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 **Educational AI Assistant**
-Multimodal AI assistant for personalized academic support with RAG system and educational resource vectorization.
-- **Tech**: Python, FastAPI, Streamlit, LlamaIndex, Qdrant, LangChain, Whisper, MLflow
+### 🧭 **BladiGo – Cultural Tourism Mobile App**
+- Innovative app for exploring Moroccan monuments  
+- Implemented **optimized RAG** reducing latency by 60%  
+- **Tech:** React Native, FastAPI, LlamaIndex, Qdrant, Whisper, MLflow, PostgreSQL, Docker  
+
+### 🛒 **E-commerce Data Pipeline – AWS Medallion Architecture**
+- Built **ETL automation (MySQL → S3 → Glue → Redshift)** for 10k+ products  
+- Created **QuickSight dashboards** for insights and trends  
+- **Tech:** AWS (S3, Glue, Redshift, Lambda), PySpark, SQL  
 
 ### 🎵 **Moroccan Music Classifier**
-Hybrid CNN-RNN-LSTM model classifying 8 music genres with 90% accuracy using custom dataset of 10K+ Moroccan audio samples.
-- **Tech**: TensorFlow, Keras, Librosa, FastAPI, Streamlit
-
-### 🏟️ **Sports Infrastructure Analysis**
-Complete ETL pipeline with automated web data processing and interactive dashboard for decision support.
-- **Tech**: Python, BeautifulSoup, Apache Airflow, Power BI, Snowflake, AWS S3, Docker
-
-### 📊 **Integrated Socio-Economic Data Analysis**
-Multi-source dataset analysis (demographics, crime, education) using complex SQL queries and social dynamics insights extraction.
-- **Tech**: Python, Scikit-learn, Pandas, SQL, Matplotlib/Seaborn
+- Created **CNN-LSTM hybrid model** with 90% accuracy across 8 genres  
+- Built a dataset of **10k+ Moroccan audio samples**  
+- **Tech:** TensorFlow, Keras, Librosa, FastAPI, Streamlit  
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Technical Skills & Technologies
 
-### 🤖 **Data Science & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+### 💻 Programming & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,js,django,fastapi,react,reactnative,spring" />
+</p>
 
-### 🧠 **Advanced AI & NLP**
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### 📊 **Data Engineering & Big Data**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### 🗄️ **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF0000?style=for-the-badge&logo=qdrant&logoColor=white)
-
-### 🌐 **Full-Stack Development**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 📈 **Data Visualization & BI**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- **Languages:** Python (Advanced), Java, TypeScript, SQL, JavaScript  
+- **Backend Frameworks:** FastAPI, Django REST Framework, Spring Boot  
+- **Frontend Development:** React, React Native, TailwindCSS  
+- **API Design:** RESTful APIs, Microservices, GraphQL (basic)
 
 ---
 
-## 🎓 Certifications
+### 🤖 Data Science, AI & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-<div id="badges">
-  <a href="https://github.com/user-attachments/files/16599478/ibm_data_science.pdf">
-    <img src="https://img.shields.io/badge/IBM%20Data%20Science-000000?style=flat&logo=IBM&logoColor=white&labelColor=03EF62" alt="IBM Data Science"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/RXMBKJENLHNR">
-    <img src="https://img.shields.io/badge/Microsoft%20Data%20Analysis%20and%20Visualization%20with%20Power%20BI-000000?style=flat&logo=powerbi&logoColor=white&labelColor=F2C811" alt="Power BI"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/L6C4P39PTHJG">
-    <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-000000?style=flat&logo=python&logoColor=white&labelColor=FFD43B" alt="Python for Data Science"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/EP43GH74SZ4D">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-000000?style=flat&logo=python&logoColor=white&labelColor=FFD43B" alt="Machine Learning"/>
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/XXLM6THB9GWN">
-    <img src="https://img.shields.io/badge/Databases%20and%20SQL%20for%20Data%20Science-000000?style=flat&logo=python&logoColor=white&labelColor=FFD43B" alt="Databases and SQL"/>
-  </a>
-  <a href="https://www.udemy.com/certificate/UC-f5ed7ab6-0fe0-4649-ad22-b0319339c3be/">
-    <img src="https://img.shields.io/badge/Deep%20Learning%20Mastery-000000?style=flat&logo=python&logoColor=white&labelColor=FFD43B" alt="Deep Learning"/>
-  </a>
-</div>
+- **Core Skills:** Supervised/Unsupervised Learning, Deep Learning, NLP  
+- **Frameworks:** PyTorch, TensorFlow, Keras, scikit-learn  
+- **Generative AI:** LangChain, LlamaIndex, HuggingFace Transformers, Whisper  
+- **RAG Systems:** Vector Search (Qdrant, ChromaDB), Context Optimization  
+- **Experiment Tracking:** MLflow (model registry, metrics, versioning)  
 
 ---
 
-## 📈 GitHub Analytics
+### 📊 Data Engineering & Big Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,snowflake,apacheairflow,apachespark" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/zakariaeyahya/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/zakariaeyahya/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaeyahya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=zakariaeyahya&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=zakariaeyahya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- **ETL Pipelines:** PySpark, Airflow, Pandas  
+- **Big Data Tools:** Apache Spark, Snowflake, Hadoop  
+- **Data Lakes & Warehouses:** AWS S3, Glue, Redshift, Athena  
+- **Streaming & Caching:** Redis Streams, Kafka (intro level)  
+- **Data Modeling:** Star Schema, Medallion Architecture  
 
 ---
 
-## 🌟 Extracurricular Activities
+### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+</p>
 
-- **🎤 Event Organizer** | Forum ENSA Tétouan
-- **👥 Community Member** | Moroccan Microsoft Community
-- **🤝 Networking** | Active participant in tech meetups and data science events
-
----
-
-## 🌍 Languages
-
-- **🇲🇦 Arabic**: Native
-- **🇫🇷 French**: Fluent
-- **🇬🇧 English**: Fluent
+- **Relational:** PostgreSQL, MySQL  
+- **NoSQL:** MongoDB, Redis  
+- **Vector Databases:** Qdrant, ChromaDB  
+- **Storage:** AWS S3, MinIO  
 
 ---
 
-## 🚀 What I'm Looking For
+### ☁️ Cloud, DevOps & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,github,linux,grafana,aws" />
+</p>
 
-I'm actively seeking **internship opportunities** and **PFA (Projet de Fin d'Année)** positions in:
-- 🔬 **Data Science & AI Research**
-- 🤖 **Machine Learning Engineering**
-- 📊 **Data Engineering & Analytics**
-- 🌐 **AI-Powered Application Development**
+- **Cloud:** AWS (EC2, S3, Glue, Redshift, IAM)  
+- **Containerization:** Docker, Docker Compose  
+- **Orchestration:** Kubernetes (RKE2, K3s), Helm  
+- **CI/CD:** GitLab CI/CD, GitHub Actions  
+- **Monitoring:** Grafana, Prometheus, Loki  
+- **Versioning:** Git, GitLab, GitHub  
+
+---
+
+### 📈 Data Visualization & BI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,plotly" />
+</p>
+
+- **Tools:** Power BI, Tableau, Plotly, Matplotlib, Seaborn  
+- **Dashboards:** KPIs, storytelling, data-driven decisions  
+
+---
+
+### 🧩 Methodologies & Soft Skills
+- **Project Management:** Agile / Scrum, Jira, Trello  
+- **Collaboration:** Confluence, Notion, Markdown Docs  
+- **Soft Skills:** Analytical mindset, teamwork, curiosity, leadership  
+- **Languages:** Arabic (Native) | French (Fluent) | English (Fluent)  
+
+---
+
+## 🏆 Certifications
+
+- 🎓 **IBM Data Science Professional Certificate**  
+- 🧠 **Machine Learning with Python (Coursera)**  
+- 🗃️ **Databases and SQL for Data Science (Coursera)**  
+- ⚙️ **Deep Learning Mastery (Udemy)**  
+- 📊 **Power BI Data Analysis (Microsoft)**  
+
+---
+
+## 🌍 Extracurricular Activities
+
+- 🎤 **Event Organizer** – Forum ENSA Tétouan  
+- 💻 **Community Member** – Moroccan Microsoft Community  
+- 🤝 **Networking** – AI & Data Science meetups  
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+<a href="https://github.com/zakariaeyahya">
+	<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=zakariaeyahya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+	</picture>
+</a>
+<a href="https://github.com/zakariaeyahya">
+	<picture>
+	<source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaeyahya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaeyahya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+	</picture>
+</a>
+
+[![Profile views](https://u8views.com/api/v1/github/profiles/105231126/views/day-week-month-total-count.svg)](https://u8views.com/github/zakariaeyahya)
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohaElbadry/MohaElbadry/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always excited to discuss AI innovations, data science projects, or collaboration opportunities!
-
-- 💼 **LinkedIn**: [zakariae-yahya](https://linkedin.com/in/zakariae-yahya/)
-- 📧 **Email**: [zakariae.yh@gmail.com](mailto:zakariae.yh@gmail.com)
-- 🐦 **Bluesky**: [@YAHYA ZAKARIAE](https://bsky.app/profile/YAHYA%20ZAKARIAE)
-- 📱 **Phone**: +212 648151446
+<p align="center">
+  <a href="https://www.linkedin.com/in/zakariae-yahya/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zakariae.yh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/zakariaeyahya">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://bsky.app/profile/YAHYA%20ZAKARIAE">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Bluesky"/>
+  </a>
+</p>
 
 ---
 
-### 💡 Fun Fact
-*Passionate about building AI solutions that bridge the gap between complex data science and real-world applications - from intelligent tutoring systems to multilingual virtual assistants!*
+### 💡 Fun Fact  
+*"I love transforming complex data into intelligent systems — building bridges between algorithms, people, and innovation."*
 
 ---
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zakariaeyahya&theme=tokyo-night)
-
----
-[![](https://visitcount.itsvg.in/api?id=zakariaeyahya&icon=0&color=0)](https://visitcount.itsvg.in)
