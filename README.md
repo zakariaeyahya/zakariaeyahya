@@ -1,3 +1,6 @@
+
+---
+
 # 👋 Hey, I'm Zakariae YAHYA (o゜▽゜)o☆
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Engineer+%26+AI+Developer;Real-Time+Pipelines+%7C+Spark+%7C+Kafka;Scalable+Data+Architectures&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000)
@@ -15,97 +18,97 @@
 📍 Casablanca, Morocco
 📧 zakariae.yh@gmail.com | 📱 +212 648 151 446
 
-> Ingénieur Data Engineer & AI Developer, expert en pipelines de données temps réel, Apache Spark, Kafka et architectures distribuées. Expérience en mise en production de plateformes data et systèmes analytiques à grande échelle, avec fortes contraintes de latence, scalabilité et observabilité. Motivé par la construction de solutions data robustes, performantes et industrialisées.
+> Data Engineer & AI Developer specializing in real-time data pipelines, Apache Spark, Kafka, and distributed architectures. Experienced in deploying large-scale data platforms and analytical systems with strict latency, scalability, and observability requirements. Passionate about building robust, high-performance, and industrialized data solutions.
 
 ---
 
 ## 🎓 Education
 
 **École Nationale des Sciences Appliquées – Tétouan**
-🎓 *Ingénierie en Sciences des Données, Big Data & IA (2021 – 2026)*
+🎓 *Data Science Engineering, Big Data & AI (2021 – 2026)*
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏦 Data/ML Engineer Intern — **Banque Centrale Populaire** (Casablanca) | *02/2026 – 08/2026*
-#### **Système de Détection de Fraude Bancaire Temps Réel (PFE – Entité Architecture Groupe)**
-- Conception d'une **architecture Big Data temps réel** pour la détection de fraude sur virements instantanés, basée sur **Apache Kafka, Spark Streaming et 4 microservices** (Spring Boot / FastAPI), avec une latence de scoring end-to-end **< 100 ms**
-- Développement du **pipeline de traitement distribué** : ingestion événementielle (Kafka), enrichissement comportemental temps réel et feature engineering avancé
-- Traitement batch des historiques transactionnels via **Apache Spark** (PySpark, Spark SQL) : nettoyage, gestion du déséquilibre des classes (SMOTE), réduction dimensionnelle (394 → 263 features)
-- Entraînement et évaluation de modèles ML : **Isolation Forest** (détection d'anomalies) + **XGBoost / Random Forest** (supervisé), avec règles métier anti-APP et anti-ATO. Versioning des modèles via **MLflow**
-- Développement d'un **dashboard de monitoring temps réel** (React / Next.js, TypeScript, Material-UI) : visualisation des transactions, gestion des alertes par sévérité, module de simulation
-- Mise en place de la sécurité : **Keycloak** (OAuth2 / OpenID Connect / JWT), chiffrement **TLS 1.3 / mTLS** inter-services, **AES-256** au repos
-- **Résultats :** Précision > 92% | Faux positifs < 2% | Latence < 100 ms | Disponibilité 99.9%
-- **Stack :** Apache Kafka, Spark (PySpark), Spring Boot, FastAPI, Redis, PostgreSQL, React / Next.js, TypeScript, XGBoost, Scikit-learn, MLflow, Keycloak, Docker, Prometheus / Grafana
+### 🏦 **Data/ML Engineer Intern — Banque Centrale Populaire** (Casablanca) | *02/2026 – 08/2026*
+#### **Real-Time Bank Fraud Detection System (PFE – Group Architecture Division)**
+- Designed a **real-time Big Data architecture** for fraud detection on instant transfers, using **Apache Kafka, Spark Streaming, and 4 microservices** (Spring Boot/FastAPI), with end-to-end scoring latency **< 100 ms**
+- Developed a **distributed processing pipeline**: event ingestion (Kafka), real-time behavioral enrichment, and advanced feature engineering
+- Batch processing of transaction histories via **Apache Spark** (PySpark, Spark SQL): cleaning, class imbalance handling (SMOTE), dimensionality reduction (394 → 263 features)
+- Trained and evaluated ML models: **Isolation Forest** (anomaly detection) + **XGBoost/Random Forest** (supervised), with anti-APP/ATO business rules. Model versioning via **MLflow**
+- Built a **real-time monitoring dashboard** (React/Next.js, TypeScript, Material-UI): transaction visualization, severity-based alert management, simulation module
+- Implemented security: **Keycloak** (OAuth2/OpenID Connect/JWT), **TLS 1.3/mTLS** inter-service encryption, **AES-256** at rest
+- **Results:** Accuracy > 92% | False positives < 2% | Latency < 100 ms | Availability 99.9%
+- **Stack:** Apache Kafka, Spark (PySpark), Spring Boot, FastAPI, Redis, PostgreSQL, React/Next.js, TypeScript, XGBoost, Scikit-learn, MLflow, Keycloak, Docker, Prometheus/Grafana
 
 ---
 
-### 🧠 Data Scientist Intern — **Izemx** (Paris, France) | *02/2025 – 02/2026*
+### 🧠 **Data Scientist Intern — Izemx** (Paris, France) | *02/2025 – 02/2026*
 
-#### **Projet 3 : IAVIA – Plateforme Multi-Agents IA Enterprise**
-- Architecture **microservices** (Java Spring Boot + Python FastAPI) pour plateforme multi-agents IA avec isolation mémoire par agent
-- **Memory Service** unifié multi-canal (Web, Slack, Teams, Telegram, WhatsApp) avec contexte conversationnel LangChain
-- Système **RAG hybride** (Vector + BM25, RRF fusion) avec **cache sémantique Redis** réduisant de **100x** le temps de réponse
-- Wizard React/TypeScript pour intégration OAuth multi-cloud (Google Drive, SharePoint, S3) et indexation automatique
-- **Stack :** Java 17, Spring Boot, FastAPI, LangChain, Qdrant, Redis, PostgreSQL, React, TypeScript, n8n, Docker
+#### **Project 3: IAVIA – Enterprise Multi-Agent AI Platform**
+- **Microservices architecture** (Java Spring Boot + Python FastAPI) for a multi-agent AI platform with per-agent memory isolation
+- Unified **Memory Service** for multi-channel (Web, Slack, Teams, Telegram, WhatsApp) with LangChain conversational context
+- Hybrid **RAG system** (Vector + BM25, RRF fusion) with **Redis semantic cache**, reducing response time by **100x**
+- React/TypeScript wizard for multi-cloud OAuth integration (Google Drive, SharePoint, S3) and automatic indexing
+- **Stack:** Java 17, Spring Boot, FastAPI, LangChain, Qdrant, Redis, PostgreSQL, React, TypeScript, n8n, Docker
 
-#### **Projet 2 : Zyra – Plateforme d'investissement crypto autonome**
-- Conception et implémentation d'un **pipeline ETL distribué** (Python, Redis, PostgreSQL) pour l'ingestion de données de marchés avec traitement de **5k+ transactions/minute**
-- Architecture événementielle avec **Redis Streams** pour la cohérence et fiabilité des flux de données temps réel
-- Développement d'un **dashboard Grafana** connecté à PostgreSQL pour le monitoring temps réel et la détection d'anomalies transactionnelles
-- Alertes automatiques sur les écarts de prix et volumes anormaux, réactivité immédiate sur les incidents
-- Système d'**analyse prédictive** pour anticiper les tendances du marché et optimiser les décisions d'investissement
-- Réduction de **40%** du temps de traitement des indicateurs stratégiques
-- **Stack :** Python, Redis, PostgreSQL, Grafana, Docker
+#### **Project 2: Zyra – Autonomous Crypto Investment Platform**
+- Designed and implemented a **distributed ETL pipeline** (Python, Redis, PostgreSQL) for market data ingestion, processing **5k+ transactions/minute**
+- Event-driven architecture with **Redis Streams** for real-time data consistency and reliability
+- Developed a **Grafana dashboard** connected to PostgreSQL for real-time monitoring and anomaly detection
+- Automated alerts for price deviations and abnormal volumes, with immediate incident response
+- **Predictive analytics system** to anticipate market trends and optimize investment decisions
+- **40% reduction** in strategic indicator processing time
+- **Stack:** Python, Redis, PostgreSQL, Grafana, Docker
 
-#### **Projet 1 : BrainBoost – Plateforme éducative complète**
-- Architecture **microservices** pour plateforme d'accompagnement scolaire IA destinée aux élèves du primaire
-- Chatbot **multimodal** traitant texte, images (OCR), audio (transcription) et PDF avec filtrage intelligent IA adapté à l'âge des enfants
-- Système **RAG hybride** (Qdrant + BM25) avec cache sémantique Redis, réduisant le temps de réponse de **100x** via reranking adaptatif
-- Back-office React pour éducateurs : personnalisation des indices, règles de modération, support multilingue et validation des réponses IA
-- Intégration de **Langfuse** pour l'observabilité LLM : tracing end-to-end, debugging LangChain, suivi des coûts API et scoring automatisé
-- **Stack :** Java 17, Spring Boot, Python, Django REST, React, TypeScript, LangChain, Qdrant, Redis, PostgreSQL, MLflow, Docker, Langfuse, Jira
+#### **Project 1: BrainBoost – Comprehensive Educational Platform**
+- **Microservices architecture** for an AI-powered educational platform for primary school students
+- **Multimodal chatbot** handling text, images (OCR), audio (transcription), and PDFs with age-appropriate AI filtering
+- Hybrid **RAG system** (Qdrant + BM25) with Redis semantic cache, reducing response time by **100x** via adaptive reranking
+- React back-office for educators: customization of hints, moderation rules, multilingual support, and AI response validation
+- Integrated **Langfuse** for LLM observability: end-to-end tracing, LangChain debugging, API cost tracking, and automated scoring
+- **Stack:** Java 17, Spring Boot, Python, Django REST, React, TypeScript, LangChain, Qdrant, Redis, PostgreSQL, MLflow, Docker, Langfuse, Jira
 
 ---
 
-### 🤖 Data Scientist Intern — **Digital Place** (Tanger, Morocco) | *06/2024 – 09/2024*
-- Conception et développement d'un **assistant client intelligent multicanal** (texte + vocal) bilingue français/darija pour application bancaire marocaine, réduisant de **40%** le temps de traitement des requêtes
-- Système **RAG multilingue** (LangChain, Groq API, Qdrant) avec pipeline de récupération contextuelle adapté au vocabulaire bancaire marocain
-- API conversationnelle **FastAPI** avec intégration **React Native** pour déploiement mobile cross-platform (iOS/Android)
-- Tests utilisateurs itératifs avec validation métier bancaire pour conformité réglementaire
-- Formation des équipes SGI et rédaction de la documentation technique et fonctionnelle complète
-- **Stack :** FastAPI, LangChain, Groq API, Qdrant, React Native, Git, Jira | Méthodologie Agile
+### 🤖 **Data Scientist Intern — Digital Place** (Tangier, Morocco) | *06/2024 – 09/2024*
+- Designed and developed a **multichannel intelligent customer assistant** (text + voice), bilingual French/Darija, for a Moroccan banking app, reducing query processing time by **40%**
+- **Multilingual RAG system** (LangChain, Groq API, Qdrant) with contextual retrieval pipeline tailored to Moroccan banking vocabulary
+- **FastAPI conversational API** with **React Native** integration for cross-platform mobile deployment (iOS/Android)
+- Iterative user testing with banking compliance validation
+- Trained banking teams and authored comprehensive technical and functional documentation
+- **Stack:** FastAPI, LangChain, Groq API, Qdrant, React Native, Git, Jira | Agile Methodology
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 **Plateforme de Streaming Analytics E-Commerce Temps Réel**
-- Architecture **event-driven** temps réel (Kafka, PyFlink, FastAPI, Redis) pour détection de fraude, recommandations et prévision d'inventaire, traitant **2.7M+ événements**
-- 3 jobs **PyFlink** (fenêtres tumbling/session/sliding) avec feature engineering (90+ features) et modèles ML (RandomForest, Prophet+ARIMA)
-- API REST FastAPI (5 endpoints) avec Kafka consumers et cache Redis, lakehouse **Iceberg/dbt** (Bronze/Silver/Gold)
-- Monitoring **Prometheus/Grafana** (7 alertes, 20 panels) et orchestration Airflow, 13 services Docker Compose
-- **Résultats :** Précision fraude 94% | Latence < 500ms | 177 tests, 78% coverage
-- **Stack :** Apache Kafka, PyFlink, FastAPI, Redis, scikit-learn, Apache Iceberg, dbt, MinIO, Prometheus, Grafana, Airflow, Docker
+### 📊 **Real-Time E-Commerce Streaming Analytics Platform**
+- **Event-driven real-time architecture** (Kafka, PyFlink, FastAPI, Redis) for fraud detection, recommendations, and inventory forecasting, processing **2.7M+ events**
+- 3 **PyFlink jobs** (tumbling/session/sliding windows) with feature engineering (90+ features) and ML models (RandomForest, Prophet+ARIMA)
+- FastAPI REST API (5 endpoints) with Kafka consumers and Redis cache, **Iceberg/dbt lakehouse** (Bronze/Silver/Gold)
+- **Prometheus/Grafana monitoring** (7 alerts, 20 panels) and Airflow orchestration, 13 Docker Compose services
+- **Results:** 94% fraud accuracy | Latency < 500ms | 177 tests, 78% coverage
+- **Stack:** Apache Kafka, PyFlink, FastAPI, Redis, scikit-learn, Apache Iceberg, dbt, MinIO, Prometheus, Grafana, Airflow, Docker
 
-### 💰 **CryptoVibe – Analyse de sentiment des marchés crypto**
-- Pipeline ETL automatisé pour l'ingestion et le traitement de données crypto issues des réseaux sociaux et des prix de marché (BTC, ETH, SOL)
-- Analyse de sentiment hybride **VADER custom + RoBERTa fine-tuné** orchestrée via **Apache Airflow**
-- Chatbot **RAG intelligent** (LangChain, Pinecone, Llama 3 – Groq) avec mémoire conversationnelle et évaluation RAGAS
-- Backend FastAPI et dashboard React interactif pour la visualisation des tendances et corrélations sentiment/prix
-- **Stack :** Python, FastAPI, Pinecone, Groq, HuggingFace, React, Apache Airflow, Docker, GitHub Actions
+### 💰 **CryptoVibe – Crypto Market Sentiment Analysis**
+- Automated ETL pipeline for ingesting and processing crypto data from social media and market prices (BTC, ETH, SOL)
+- Hybrid sentiment analysis (**custom VADER + fine-tuned RoBERTa**) orchestrated via **Apache Airflow**
+- **Intelligent RAG chatbot** (LangChain, Pinecone, Llama 3 – Groq) with conversational memory and RAGAS evaluation
+- FastAPI backend and interactive React dashboard for trend visualization and sentiment/price correlations
+- **Stack:** Python, FastAPI, Pinecone, Groq, HuggingFace, React, Apache Airflow, Docker, GitHub Actions
 
-### 🛒 **Pipeline de Données Financières – AWS (Architecture Medallion)**
-- Pipeline ETL automatisé avec architecture **Medallion** (Bronze/Silver/Gold) pour traiter des données transactionnelles de **10k+ produits**
-- Orchestration : MySQL (RDS) → AWS DMS → S3 → AWS Glue (PySpark) → Redshift
-- Dashboards **QuickSight** pour l'analyse de tendances et rapports métier
-- **Stack :** AWS (DMS, RDS MySQL, Glue, Lambda, Step Functions, S3, Redshift, QuickSight), Python (PySpark, Boto3), SQL
+### 🛒 **Financial Data Pipeline – AWS (Medallion Architecture)**
+- Automated ETL pipeline with **Medallion architecture** (Bronze/Silver/Gold) for processing transactional data of **10k+ products**
+- Orchestration: MySQL (RDS) → AWS DMS → S3 → AWS Glue (PySpark) → Redshift
+- **QuickSight dashboards** for trend analysis and business reporting
+- **Stack:** AWS (DMS, RDS MySQL, Glue, Lambda, Step Functions, S3, Redshift, QuickSight), Python (PySpark, Boto3), SQL
 
 ### 🎓 **Educational Assistant**
-- Assistant IA multimodal pour accompagnement éducatif personnalisé
-- Analyse et organisation automatisée des ressources éducatives avec suivi de performance
-- **Stack :** Python, FastAPI, Streamlit, LlamaIndex, Qdrant, LangChain, Whisper, MLflow, Postman
+- Multimodal AI assistant for personalized educational support
+- Automated analysis and organization of educational resources with performance tracking
+- **Stack:** Python, FastAPI, Streamlit, LlamaIndex, Qdrant, LangChain, Whisper, MLflow, Postman
 
 ---
 
@@ -167,9 +170,9 @@
 ---
 
 ### 🧩 Methodologies & Architecture
-- **Architecture :** Microservices, Architecture Medallion, Event-Driven
-- **Project Management :** Agile / Scrum, Jira
-- **Languages :** Arabe (Courant) | Français (Courant)
+- **Architecture:** Microservices, Medallion Architecture, Event-Driven
+- **Project Management:** Agile/Scrum, Jira
+- **Languages:** Arabic (Fluent) | French (Fluent)
 
 ---
 
@@ -185,7 +188,7 @@
 
 ## 🌍 Extracurricular Activities
 
-- 🎤 **Event Organizer** – Forum ENSA Tétouan
+- 🎤 **Event Organizer** – ENSA Tétouan Forum
 - 💻 **Community Member** – Moroccan Microsoft Community
 - 🤝 **Networking** – AI & Data Science meetups
 
@@ -236,5 +239,3 @@
 
 ### 💡 Fun Fact
 *"I love transforming complex data into intelligent systems — building bridges between algorithms, people, and innovation."*
-
----
